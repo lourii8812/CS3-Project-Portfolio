@@ -74,7 +74,7 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+> The system will let students quickly login when they arrive at the classroom and save their check-in time automatically. It will mark anyone arriving after 7:40 as late, remind them to get an admission slip, and make a clean daily attendance report for the teacher to check at the end of the day.
 
 <br>
 
