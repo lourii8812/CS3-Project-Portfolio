@@ -91,6 +91,6 @@
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.      |         |
-| 2.      |         |
-| 3.      |         |
+| 1. Student Check In     |  To allow students to input their name and record their arrival time       |
+| 2. Automatic Attendance Status      | To automatically mark the students Present or late, basing off the set time 7:40 A        |
+| 3. Attendance Records     | To allow the teacher to view the student's name, attendance status, and time of arrival       |
