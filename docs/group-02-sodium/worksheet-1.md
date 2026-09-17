@@ -82,8 +82,8 @@
 
 | User/Role | Possible Use |
 | --------- | ------------ |
-| 1.*Role 1* | *How will they use the program* |
-| 2.*Role 2* | *How will they use the program* |
+| 1. Student | To quickly login their attendance once entering the classroom. |
+| 2. Teacher | To check the attendance report created by the attendance checker system. |
 
 ### 3. What are the essential features?
 
