@@ -15,16 +15,13 @@ If you were going to create a program for this process, what things would the pr
 
 | No. | Object | Description |
 |:---:|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
+| 1 | Class | Where students are taught lessons by their assigned teacher |
+| 2 | Students | Students of each class |
+| 3 | Adviser | The homeroom adviser of each class |
+| 4 | Subject_Teacher | Specific teacher per subject of each class. |
+| 5 | Attendance_Sheet| To check the attendance of the students in each class. |
+| 6 | Class_Monitor| The person that monitors and updates the attendance of students |
+
 
 ### Object Evaluation
 
