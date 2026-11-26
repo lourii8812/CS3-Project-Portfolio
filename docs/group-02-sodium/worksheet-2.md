@@ -139,8 +139,8 @@ Determine how your identified classes are related to one another.
 
 | No. | Class 1 | Relationship | Class 2 | Why are they related? |
 |:---:|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
+| 1 | Teacher | Association | Student | The teacher has many relationships with many students  in their class by checking and confirming their attendance |
+| 2 | Class_Monitor | Inheritance | Student | The class monitor is a specialized version of a student, but with specific duties |
 | 3 | Teacher | Inheritance | Subject_Teacher | The subject teacher is a specialized version of a teacher, but the teacher is assigned to a specific subject. |
 | 4 | Class_Monitor | Association | Attendance_Sheet | The class monitor interacts with the attendance sheet by monitoring and updating the attendance of students using the attendance sheet. |
 
