@@ -144,10 +144,8 @@ Determine how your identified classes are related to one another.
 |:---:|---|---|---|---|
 | 1 | | | | |
 | 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
+| 3 | Teacher | Inheritance | Subject_Teacher | The subject teacher is a specialized version of a teacher, but the teacher is assigned to a specific subject. |
+| 4 | Class_Monitor | Association | Attendance_Sheet | The class monitor interacts with the attendance sheet by monitoring and updating the attendance of students using the attendance sheet. |
 
 ### Relationship Types
 
