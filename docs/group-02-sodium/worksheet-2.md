@@ -45,14 +45,10 @@ Determine how your identified objects interact with one another.
 
 | No. | Object 1 | Interacts | Object 2 |
 |:---:|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
+| 1 | Class_Monitor | updates | Attendance_Sheet |
+| 2 | Subject_Teacher | confirms | Attendance_Sheet |
+| 3 | Adviser | checks | Attendance_Sheet |
+| 4 | Class_Monitor | tracks | Students |
 
 ---
 
