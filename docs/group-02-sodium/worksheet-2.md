@@ -64,11 +64,12 @@ Not every object needs to become a class. Choose only the objects that are impor
 
 | No. | Class | What does it represent? |
 |:---:|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Students | Represents the individuals that have their attendance confirmed and monitored |
+| 2 | Subject_Teacher | Checks and confirm the students’ attendance |
+| 3 | Class_monitor | Checks and monitors their fellow students' attendance |
+| 4 | Attendance_Sheet | The attendance sheet in which every class is given |
+| 5 | Adviser | The Homeroom Adviser for each class |
+| 6 | Class | The place where everyone belongs |
 
 ---
 
